@@ -1,0 +1,178 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1468.443284778838,
+            "y": 259.09404249389104
+          },
+          "nodeIndex": "As Of",
+          "nodeLineageTag": "6c133453-4239-4337-93d2-411e4f932e60",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1752.443284778838,
+            "y": 259.09404249389104
+          },
+          "nodeIndex": "Classification",
+          "nodeLineageTag": "9c1fdfc1-1f93-4724-99d6-f448f1fc076b",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2036.443284778838,
+            "y": 259.09404249389104
+          },
+          "nodeIndex": "Country",
+          "nodeLineageTag": "81d7ff07-e529-47bf-aadb-99a07861af8e",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2320.443284778838,
+            "y": 173.09404249389104
+          },
+          "nodeIndex": "Metrics",
+          "nodeLineageTag": "163acef5-4c86-40ee-b599-ac64a7388227",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 381.82267398250724,
+            "y": -50
+          },
+          "nodeIndex": "Result",
+          "nodeLineageTag": "41375806-02bb-4aa7-8a10-9393253b38d3",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 105.04000838641605
+          },
+          "nodeIndex": "Rider",
+          "nodeLineageTag": "39b5770e-e706-4e90-b12f-e8644bcf0623",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2604.443284778838,
+            "y": 271.09404249389104
+          },
+          "nodeIndex": "Scenario",
+          "nodeLineageTag": "977bb615-db44-4233-bfa6-6ce35179e9e1",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 666.03717490023087,
+            "y": 152.40492514334005
+          },
+          "nodeIndex": "Stage",
+          "nodeLineageTag": "02095895-2cdd-4ea4-ae39-156b2f0f1d13",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 334.16667727041943,
+            "y": 296.188084987782
+          },
+          "nodeIndex": "Standing",
+          "nodeLineageTag": "7ce47460-2256-40f5-833c-9f8dafe35575",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1234.443284778838,
+            "y": 289.85092254479383
+          },
+          "nodeIndex": "Team",
+          "nodeLineageTag": "b38160c3-b9af-4117-be4f-5ab2666a6e26",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 986.95355888896574,
+            "y": 63.715251826815916
+          },
+          "nodeIndex": "Team Stage",
+          "nodeLineageTag": "4c47eaff-f6be-49c9-bc5e-907f78382403",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 950.23849236406863,
+            "y": 347.42461561901592
+          },
+          "nodeIndex": "Team Standing",
+          "nodeLineageTag": "d38818bd-0188-499f-8a69-0670688ea6b8",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
