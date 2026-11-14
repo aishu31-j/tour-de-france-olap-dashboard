@@ -12,9 +12,9 @@ Built with **Power BI Desktop**, using a reproducible data-generation pipeline, 
 
 *Race overview showing overall race and team performance.*
 
-![Stage Explorer](review/screenshots/02-stage-drill-to-rider.png)
+![Terrain & Consistency](review/screenshots/02-stage-drill-to-rider.png)
 
-*Explore stages, teams and riders through interactive drill-downs.*
+*Explore rider performance across terrain types*
 
 ![Classifications](review/screenshots/03-classifications.png)
 
